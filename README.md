@@ -15,7 +15,7 @@ Support swift 5.1 and heigher, iOS 13+.
 ### CocoaPods
 
 ```
-pod 'AlertDSL', :git => "https://github.com/artemch/AlertDSL.git", :tag => '~> 0.1.0'
+pod 'AlertDSL', :git => "https://github.com/artemch/AlertDSL.git", :tag => '0.1.0'
 ```
 
 ## Example
